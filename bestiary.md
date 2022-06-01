@@ -5,17 +5,23 @@
 |--- | --- | --- | --- |
 | 1  | Farmer | 1d2 villagers, 50% chance of mule | live nearby |
 | 2  | Farmer | 2d6 villagers, 1d6 mules | know where to rest or get food|
-| 3  | Forester | 2d6 villagers, 1d4-1 hunting dogs | warning of a danger in a nearby forest |
+| 3  | Forester | 2d6 hunters, 1d4-1 hunting dogs | warning of a danger in a nearby forest |
 | 4  | Nomadic | 2d6 +4 villagers, 1d4-1 hunting dogs, 2d4 pack horses | know a useful rumour from afar|
 | 6  | Market day | 2d6 villagers + 1d6 pack horses. Add a random merchant |
 
 
-### Villagers
+### Villager
 4HP, farm implement (d6)
 
 - Will not fight unless there is absolutely no other option.
 
-### Pack horse, mule
+### Hunter
+5 HP, bow (d6), dagger (d6)
+
+- Don't usually fight people, but a bit more adept at dealing with danger.
+- May also have some traps on them.
+
+### Pack horse or mule
 2 HP, 14 STR, 6 WIL, kick (d6)
 
 - Can pull a cart or wagon.
@@ -39,24 +45,37 @@
 | 3     | Food     | as 1-2, but roll on expeditionary gear table for an unexpected item. | |
 | 4     | Food     | as above, but the tools table | |
 | 5     | Food     | As above, but with the trinkets table. | |
-| 6     | Cheap  (10 STR)   | bottle, cards, dice, twine, air bladder, sack, chalk, glue, sealant, latern and oil |  1d4 -1 merchants of the same type. |
-| 7     | Hunter (10 STR, d8 spear)  | large traps, rope, tinderbox, fishing rod, glue, grease, net, rations. | 1d2 porters OR 1d4 merchants of the same type. |
+| 6     | Cheap  (stats as villager)   | bottle, cards, dice, twine, air bladder, sack, chalk, glue, sealant, latern and oil |  1d4 -1 merchants of the same type. |
+| 7     | Hunter (stats as hunter)  | large traps, rope, tinderbox, fishing rod, glue, grease, net, rations. | 1d2 porters OR 1d4 merchants of the same type. |
 | 8     | Barber   | antitoxin, repellent, face paint, mirrors, perfume, soap, sponge. Can perform minor healing. | 1d2 guards OR 1d4 merchants of the same type.|
-| 9     | Smith (12 STR, d8 hammer)   |  grappling hook, pick,  bellows, chisel, cook pots, crowbar, drill, hammer, file, nails, saw, shovel, tongs |  1d4 -1 other merchants |
-| 10    | Holy (12 WIL)    | holy water, incense, wolfsbane, spirit ward. 1 in 4 chance of a spellbook. | 1d4 -1 other merchants and their companions, 1d4-1 guards |
-| 11    | Armourer  (12 STR, d8 hammer) | roll 3x on weapons table, and once on the armor and on the hemets and shield table. | 1d4 -1 other merchants and their companions, 1d6 + 3 guards, 1d4 pack horse |
+| 9     | Smith (stats as smith)    |  grappling hook, pick,  bellows, chisel, cook pots, crowbar, drill, hammer, file, nails, saw, shovel, tongs |  1d4 -1 other merchants |
+| 10    | Holy (stats as acolyte)    | holy water, incense, wolfsbane, spirit ward. 1 in 4 chance of a spellbook. | 1d4 -1 other merchants and their companions, 1d4-1 guards |
+| 11    | Armourer  (stats as smith) | roll 3x on weapons table, and once on the armor and on the hemets and shield table. | 1d4 -1 other merchants and their companions, 1d6 + 3 guards, 1d4 pack horse |
 | 12    | Luxury   | face paint, marbles, horn, hourglass, incense, mirror, oilskin bag, spyglass, quill and ink. 1 in 4 chance of a spellbook. |  1d4 other merchants, 1d6+3 guards. 1d4 porters OR 1 pack horse |
 
 ### Merchant
 
-4 HP, 8 STR, 8 WIL, Dagger (d6)
+4 HP, 1 Armor, 8 STR, 8 WIL, Dagger (d6)
 
 - Carry valuable items for sale according to the above table.
 - Typically live a life of greater luxury than the average farmer (some exceptions listed)
 
+### Smith
+5 HP, 2 armor, 12 STR, hammer (d8)
+
+### Acolyte
+*author: [xenio](https://xenioinabottle.blogspot.com/)*
+
+4 HP, 1 Armor, 14 WIL, mace (d6), Holy Symbol (Ward once per day)
+
+- Holy men & women in a quest for their deity.
+- Normally travel in groups of 4+.
+
+
+
 ### Traveling guards
 
-8 HP, 1 Armor, 12 STR, 12 WIL, sword (d8)
+8 HP, 2 Armor, 12 STR, 12 WIL, sword (d8)
 
 - A slightly more respectable type of mercenary, typically hired by merchants and other travelers as protection on a journey. Could be good work for an adventuring party as well.
 - Commonly experts in a particular route and its dangers, with a preference for avoiding danger where possible.
