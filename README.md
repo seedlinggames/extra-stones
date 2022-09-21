@@ -7,5 +7,6 @@ The text in this repository is licensed under CC-BY-SA 4.0.
 
 # Table of Contents
 - [Bestiary](bestiary.md)
+- [Trinkets and clothing details](trinkets.md)
 - Rules for solo games (coming soon)
 - Extra or experimental rules (coming soon)
