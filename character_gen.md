@@ -62,4 +62,4 @@ This replaces backgrounds. You come from an ordinary peasant village. What speci
 9. Climb, run, swim
 10. Know the old stories
 
-TODO: I'm creating a new inventory system around these.
+TODO: I'm creating a new starting inventory system around these.
